@@ -22,7 +22,7 @@ namespace MD5Attacker
             //Console.ReadKey();
 
             var hash = "3b75187f5e19a034b5d0a8d35de5f9b2";
-            var salt = "vBBfYYWkriJvpMtFBL3xhVs9oo5QvbRPxUgCKJqFMF6iZKkhk6eMNqSXDus3WJ/t";
+            var salt = "vBBfYYWkriJvpMtFBL3xhVs9oo5QvbRPxUgCKJqFMF6iZKkhk6eMNqSXDus3WJ";
             var a="null";
             Task task1 = new Task(() =>
             {
